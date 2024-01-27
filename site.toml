@@ -1,6 +1,8 @@
 # This is the .toml file passed to Locomotion.
 # For information on the different settings available, and an example file,
 # see the Locomotion README: https://github.com/leoncvlt/loconotion/blob/master/README.md
+# Dark theme
+theme = "dark"
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
@@ -9,5 +11,4 @@ name = "site"
 # This page should be the root of your website. It's important.
 page = "https://archit2904.notion.site/Archit-Joshi-321a25b89027487d8cd041113801ec63?pvs=4"
 
-# Dark theme
-theme = "dark"
+
